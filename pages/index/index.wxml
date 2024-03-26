@@ -1,0 +1,6 @@
+<view class="box">
+  <view class="title">man,what i can say</view>
+  <view style="text-align: center;">
+    <image src="{{imgSrc}}" bind:tap="tapCat"></image>
+  </view>
+</view>
